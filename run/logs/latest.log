@@ -1,0 +1,170 @@
+[2712月2025 00:32:34.153] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 5, --assetsDir, C:\Users\wyx6669036\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.1.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[2712月2025 00:32:34.159] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.17 by Azul Systems, Inc.; OS Windows 11 arch amd64 version 10.0
+[2712月2025 00:32:34.289] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[2712月2025 00:32:34.371] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[2712月2025 00:32:34.591] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[2712月2025 00:32:34.717] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/wyx6669036/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[2712月2025 00:32:34.718] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 581.80, NVIDIA Corporation
+[2712月2025 00:32:35.072] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wyx6669036\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.1.0\a2cd58d15791eaac9983e30be0995e66bd48633e\javafmllanguage-1.20.1-47.1.0.jar is missing mods.toml file
+[2712月2025 00:32:35.077] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wyx6669036\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.1.0\f1f11b7217b8320f1b3eb81c746b7b8a70a9ba06\lowcodelanguage-1.20.1-47.1.0.jar is missing mods.toml file
+[2712月2025 00:32:35.081] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wyx6669036\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.1.0\ff1b8eeb1bd00dfb130263b8952b931f5369252e\mclanguage-1.20.1-47.1.0.jar is missing mods.toml file
+[2712月2025 00:32:35.085] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wyx6669036\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.1.0\69ca36ae5b8d45c377a5485dc38a7343e5ebf33c\fmlcore-1.20.1-47.1.0.jar is missing mods.toml file
+[2712月2025 00:32:35.177] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[2712月2025 00:32:36.610] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientuserdev' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\wyx6669036\.gradle\caches\forge_gradle\assets, --assetIndex, 5]
+[2712月2025 00:32:40.646] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 126 milliseconds
+[2712月2025 00:32:42.380] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/wyx6669036/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.0_mapped_official_1.20.1/forge-1.20.1-47.1.0_mapped_official_1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[2712月2025 00:32:42.381] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/wyx6669036/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.0_mapped_official_1.20.1/forge-1.20.1-47.1.0_mapped_official_1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[2712月2025 00:32:42.398] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2712月2025 00:32:42.406] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[2712月2025 00:32:42.526] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[2712月2025 00:32:42.831] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.0, for MC 1.20.1 with MCP 20230612.114412
+[2712月2025 00:32:42.833] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.0 Initialized
+[2712月2025 00:32:47.796] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [loratadine]
+[2712月2025 00:32:47.926] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[2712月2025 00:32:48.017] [Worker-Main-6/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2712月2025 00:32:48.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[2712月2025 00:32:50.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.1.0 Target: 47.4.10
+[2712月2025 00:32:50.585] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[2712月2025 00:32:50.585] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2712月2025 00:32:50.621] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2712月2025 00:32:50.622] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[2712月2025 00:32:50.705] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[2712月2025 00:32:50.713] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2712月2025 00:32:50.714] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2712月2025 00:32:50.714] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2712月2025 00:32:50.714] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2712月2025 00:32:50.717] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2712月2025 00:32:50.719] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2712月2025 00:32:50.719] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2712月2025 00:32:50.719] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2712月2025 00:32:50.958] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2712月2025 00:32:51.016] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[2712月2025 00:32:51.016] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2712月2025 00:32:51.017] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2712月2025 00:32:51.995] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: 0
+[2712月2025 00:32:57.228] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to 127.0.0.1, 25566
+[2712月2025 00:33:00.594] [Netty Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a vanilla server. Catching up missing behaviour.
+[2712月2025 00:33:01.178] [Render thread/WARN] [net.minecraft.world.flag.FeatureFlagRegistry/]: Unknown feature flag: minecraft:update_1_21
+[2712月2025 00:33:01.178] [Render thread/WARN] [net.minecraft.world.flag.FeatureFlagRegistry/]: Unknown feature flag: minecraft:winter_drop
+[2712月2025 00:33:01.536] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 你现在正在 latest(1.21.4) 服务器上!
+[2712月2025 00:33:01.544] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 要想进入 legacy 服务器，请输入 /server legacy!
+[2712月2025 00:33:01.544] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [+] wyx6669036
+[2712月2025 00:33:01.566] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity LocalPlayer['wyx6669036'/18328193, l='ClientLevel', x=262.49, y=62.56, z=180.92] does not have attribute null
+[2712月2025 00:33:01.566] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 145 advancements
+[2712月2025 00:33:01.580] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: lunar:apollo
+[2712月2025 00:33:01.581] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: lunar:apollo
+[2712月2025 00:33:01.581] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: lunar:apollo
+[2712月2025 00:33:01.582] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 你的客户端标识为: forge
+[2712月2025 00:33:01.582] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: fml:hs
+[2712月2025 00:33:01.582] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: fml:hs
+[2712月2025 00:33:01.582] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: fml:hs
+[2712月2025 00:33:03.520] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity RemotePlayer['ShowerRoom'/18325473, l='ClientLevel', x=139.08, y=62.00, z=194.45] does not have attribute null
+[2712月2025 00:33:21.908] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 欢迎加入测试服的官方Q群: 741394677 | https://qm.qq.com/q/UO8d9hMEgi
+[2712月2025 00:33:25.366] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [+] fktzs523
+[2712月2025 00:33:25.366] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity RemotePlayer['fktzs523'/18329064, l='ClientLevel', x=143.14, y=62.00, z=190.39] does not have attribute null
+[2712月2025 00:33:25.374] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity RemotePlayer['fktzs523'/18329064, l='ClientLevel', x=143.14, y=62.00, z=190.39] does not have attribute null
+[2712月2025 00:33:26.314] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [ACA] wyx6669036 failed packetanalysis.parts.equalrotation (vl:1)
+[2712月2025 00:33:26.423] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [-] ShowerRoom
+[2712月2025 00:33:44.179] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [-] fktzs523
+[2712月2025 00:33:50.365] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity LocalPlayer['wyx6669036'/18328193, l='ClientLevel', x=246.82, y=62.00, z=208.95] does not have attribute null
+[2712月2025 00:33:54.165] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity LocalPlayer['wyx6669036'/18328193, l='ClientLevel', x=241.48, y=63.17, z=210.06] does not have attribute null
+[2712月2025 00:33:58.215] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [ACA] wyx6669036 failed packetanalysis.parts.equalrotation (vl:1)
+[2712月2025 00:33:59.368] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [ACA] wyx6669036 failed packetanalysis.parts.equalrotation (vl:1)
+[2712月2025 00:34:01.159] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [ACA] wyx6669036 failed packetanalysis.parts.equalrotation (vl:1)
+[2712月2025 00:34:05.413] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 已启用: GrimAC
+[2712月2025 00:34:14.909] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 60 秒后被清除!
+[2712月2025 00:34:25.911] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 欢迎加入测试服的官方Q群: 741394677 | https://qm.qq.com/q/UO8d9hMEgi
+[2712月2025 00:34:44.917] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 30 秒后被清除!
+[2712月2025 00:35:00.857] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Unable to play unknown soundEvent: minecraft:random.pop
+[2712月2025 00:35:09.915] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 5 秒后被清除!
+[2712月2025 00:35:14.236] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed DuplicateRotPlace (vl:0.0): x=0.0 xdots=0.0 y=13.106377
+[2712月2025 00:35:14.918] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 8 个物品已被清除!
+[2712月2025 00:35:16.205] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:0.0): held item change v1.20.5
+[2712月2025 00:35:23.101] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:1.0): held item change v1.20.5
+[2712月2025 00:35:23.364] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [+] fktzs523
+[2712月2025 00:35:23.365] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity RemotePlayer['fktzs523'/18333233, l='ClientLevel', x=156.32, y=62.00, z=174.82] does not have attribute null
+[2712月2025 00:35:23.373] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity RemotePlayer['fktzs523'/18333233, l='ClientLevel', x=156.32, y=62.00, z=174.82] does not have attribute null
+[2712月2025 00:35:29.915] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 你可以使用 /i 指令来获取物品!
+[2712月2025 00:35:34.951] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:2.0): held item change v1.20.5
+[2712月2025 00:35:50.355] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:3.0): held item change v1.20.5
+[2712月2025 00:35:53.357] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed MultiPlace (vl:0.0): face=UP, lastFace=UP, cursor=0.25406653, 0.5, 0.41427392, lastCursor=0.4302676, 0.5, 0.70654136, pos=257, 60, 204, lastPos=257, 60, 204
+[2712月2025 00:35:54.169] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity LocalPlayer['wyx6669036'/18328193, l='ClientLevel', x=255.93, y=64.18, z=203.91] does not have attribute null
+[2712月2025 00:35:54.860] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 所有的搭路区域将在 60 秒后被清除!
+[2712月2025 00:36:13.005] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:4.0): held item change v1.20.5
+[2712月2025 00:36:13.977] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [-] fktzs523
+[2712月2025 00:36:24.861] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 所有的搭路区域将在 30 秒后被清除!
+[2712月2025 00:36:28.251] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:5.0): held item change v1.20.5
+[2712月2025 00:36:33.916] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 你可以使用 /i 指令来获取物品!
+[2712月2025 00:36:37.153] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:6.0): held item change v1.20.5
+[2712月2025 00:36:47.403] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:7.0): held item change v1.20.5
+[2712月2025 00:36:49.864] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 所有的搭路区域将在 5 秒后被清除!
+[2712月2025 00:36:59.604] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:8.0): held item change v1.20.5
+[2712月2025 00:37:32.411] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:9.0): held item change v1.20.5
+[2712月2025 00:37:37.916] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 欢迎加入测试服的官方Q群: 741394677 | https://qm.qq.com/q/UO8d9hMEgi
+[2712月2025 00:37:40.907] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:10.0): held item change v1.20.5
+[2712月2025 00:37:48.759] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:11.0): held item change v1.20.5
+[2712月2025 00:37:55.060] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:12.0): held item change v1.20.5
+[2712月2025 00:38:27.237] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed DuplicateRotPlace (vl:0.0): x=0.0 xdots=0.0 y=35.404003
+[2712月2025 00:38:28.807] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PositionPlace (vl:0.0)
+[2712月2025 00:38:31.917] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 60 秒后被清除!
+[2712月2025 00:38:41.920] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 欢迎加入测试服的官方Q群: 741394677 | https://qm.qq.com/q/UO8d9hMEgi
+[2712月2025 00:39:01.921] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 30 秒后被清除!
+[2712月2025 00:39:05.890] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed DuplicateRotPlace (vl:0.0): x=0.0 xdots=0.0 y=24.176643
+[2712月2025 00:39:08.455] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed DuplicateRotPlace (vl:1.0): x=0.0 xdots=0.0 y=24.176643
+[2712月2025 00:39:09.204] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:13.0): held item change v1.20.5
+[2712月2025 00:39:21.660] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed DuplicateRotPlace (vl:0.0): x=0.0 xdots=0.0 y=27.726871
+[2712月2025 00:39:26.922] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 5 秒后被清除!
+[2712月2025 00:39:31.919] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 1 个物品已被清除!
+[2712月2025 00:39:35.357] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed MultiPlace (vl:1.0): face=UP, lastFace=UP, cursor=0.2826171, 0.5, 0.6199716, lastCursor=0.5145829, 0.5, 0.66312945, pos=261, 60, 174, lastPos=261, 60, 174
+[2712月2025 00:39:45.922] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 欢迎加入测试服的官方Q群: 741394677 | https://qm.qq.com/q/UO8d9hMEgi
+[2712月2025 00:39:46.384] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [+] fktzs523
+[2712月2025 00:39:46.384] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity RemotePlayer['fktzs523'/18342513, l='ClientLevel', x=159.48, y=62.00, z=177.63] does not have attribute null
+[2712月2025 00:39:46.392] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Entity RemotePlayer['fktzs523'/18342513, l='ClientLevel', x=159.48, y=62.00, z=177.63] does not have attribute null
+[2712月2025 00:40:03.605] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:14.0): held item change v1.20.5
+[2712月2025 00:40:08.205] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed MultiPlace (vl:2.0): face=NORTH, lastFace=NORTH, cursor=0.25711462, 0.58, 0.5, lastCursor=0.68205184, 0.58, 0.5, pos=273, 73, 194, lastPos=273, 73, 194
+[2712月2025 00:40:08.456] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PositionPlace (vl:1.0)
+[2712月2025 00:40:09.160] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:15.0): held item change v1.20.5
+[2712月2025 00:40:10.709] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:0.0): .010780 /gl 191
+[2712月2025 00:40:10.751] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:1.0): .060421 /gl 191
+[2712月2025 00:40:10.801] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:2.0): .032987 /gl 191
+[2712月2025 00:40:10.851] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:3.0): .018011 /gl 191
+[2712月2025 00:40:10.901] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:4.0): .009834 /gl 191
+[2712月2025 00:40:10.952] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:5.0): .005369 /gl 191
+[2712月2025 00:40:11.002] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:6.0): .002932 /gl 191
+[2712月2025 00:40:11.052] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:7.0): .001601 /gl 191
+[2712月2025 00:40:49.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 欢迎加入测试服的官方Q群: 741394677 | https://qm.qq.com/q/UO8d9hMEgi
+[2712月2025 00:40:58.859] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:8.0): .032251 /gl 191
+[2712月2025 00:40:58.901] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:9.0): .031606 /gl 191
+[2712月2025 00:40:58.960] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:10.0): .030974 /gl 191
+[2712月2025 00:41:08.858] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:11.0): .030899 /gl 191
+[2712月2025 00:41:08.906] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:12.0): .030281 /gl 191
+[2712月2025 00:41:08.958] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Simulation (vl:13.0): .029676 /gl 191
+[2712月2025 00:41:14.937] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [-] fktzs523
+[2712月2025 00:41:53.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 你可以使用 /i 指令来获取物品!
+[2712月2025 00:42:31.859] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PositionPlace (vl:2.0)
+[2712月2025 00:42:32.052] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:16.0): held item change v1.20.5
+[2712月2025 00:42:48.925] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 60 秒后被清除!
+[2712月2025 00:42:50.851] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:17.0): held item change v1.20.5
+[2712月2025 00:42:52.111] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:18.0): held item change v1.20.5
+[2712月2025 00:42:52.457] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:19.0): held item change v1.20.5
+[2712月2025 00:42:52.806] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:20.0): held item change v1.20.5
+[2712月2025 00:42:53.157] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:21.0): held item change v1.20.5
+[2712月2025 00:42:57.922] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 你可以使用 /i 指令来获取物品!
+[2712月2025 00:43:06.756] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:22.0): held item change v1.20.5
+[2712月2025 00:43:07.357] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:23.0): held item change v1.20.5
+[2712月2025 00:43:08.209] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed Post (vl:24.0): held item change v1.20.5
+[2712月2025 00:43:15.761] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:0.0): type=attack, rightClicking=false, picking=false, releasing=false, digging=true
+[2712月2025 00:43:15.761] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed MultiActionsF (vl:0.0): entity
+[2712月2025 00:43:18.920] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 30 秒后被清除!
+[2712月2025 00:43:29.964] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:1.0): type=attack, rightClicking=true, picking=false, releasing=false, digging=false
+[2712月2025 00:43:31.312] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:2.0): type=attack, rightClicking=true, picking=false, releasing=false, digging=false
+[2712月2025 00:43:31.808] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:3.0): type=attack, rightClicking=true, picking=false, releasing=false, digging=false
+[2712月2025 00:43:32.000] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:4.0): type=attack, rightClicking=true, picking=false, releasing=false, digging=false
+[2712月2025 00:43:32.207] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:5.0): type=attack, rightClicking=true, picking=false, releasing=false, digging=false
+[2712月2025 00:43:33.813] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:6.0): type=attack, rightClicking=false, picking=false, releasing=true, digging=false
+[2712月2025 00:43:33.904] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:7.0): type=attack, rightClicking=true, picking=false, releasing=false, digging=false
+[2712月2025 00:43:35.103] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed PacketOrderI (vl:8.0): type=attack, rightClicking=false, picking=false, releasing=true, digging=false
+[2712月2025 00:43:37.305] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [GrimAC] wyx6669036 failed DuplicateRotPlace (vl:0.0): x=0.0 xdots=0.0 y=0.0
+[2712月2025 00:43:43.931] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 地面上的所有物品将在 5 秒后被清除!
+[2712月2025 00:43:48.928] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Diona >> 0 个物品已被清除!
+[2712月2025 00:43:52.528] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
